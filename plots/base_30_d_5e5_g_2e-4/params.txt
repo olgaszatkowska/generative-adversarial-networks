@@ -1,0 +1,4 @@
+epoch=30
+d_lr=5e-5
+g_lr=2e-4
+beta=0.4
