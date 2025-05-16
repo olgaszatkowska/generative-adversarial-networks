@@ -1,4 +1,0 @@
-epoch=75
-d_lr=2e-4
-g_lr=1e-4
-beta=0.5
