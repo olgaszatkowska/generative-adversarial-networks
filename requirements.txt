@@ -2,3 +2,4 @@ numpy
 Pillow
 scikit-learn
 albumentations
+tensorflow
